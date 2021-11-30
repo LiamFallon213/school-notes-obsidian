@@ -1,0 +1,4 @@
+- Elements in a set are unique
+	- no duplicates
+- Order doesn't matter
+- Number of elements called "cardinality" the operator # returns the cardinality

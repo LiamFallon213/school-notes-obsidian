@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "2642e80f05c2abdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3757003e824e0535",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Formal Languages.md",
+            "mode": "source"
+          }
+        },
+        "group": "6e23895bbfd4f960"
+      },
+      {
+        "id": "46fe9806b9265b2c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Software Engineering/Formal Languages.md",
+            "mode": "preview"
+          }
+        },
+        "group": "6e23895bbfd4f960"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9da52b9d893f9b03",
+    "type": "split",
+    "children": [
+      {
+        "id": "60c4a0a63f69ada4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13457b6019228425",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "edb33d4cc5a84a66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92525be0e758c5b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "95c6c75ef8566e28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea178d70fe3c788e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Engineering/Formal Languages.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91db566834910fe0",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3757003e824e0535",
+  "lastOpenFiles": [
+    "Software Engineering/Formal Languages.md",
+    "Software Engineering/Sets.md",
+    "Software Engineering/Predicate Calculus.md"
+  ]
+}
